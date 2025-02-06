@@ -1,0 +1,6 @@
+.containe-demo1{
+ background-color: rgb(255, 30, 0);
+ display: flex;
+ justify-content: space-around ;
+ align-items:center ;
+}
