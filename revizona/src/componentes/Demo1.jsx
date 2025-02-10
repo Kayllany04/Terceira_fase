@@ -25,8 +25,9 @@ function Demo1() {
     <div className='containe-demo1'>
 
     <h2> Demo1 </h2>
-
+     
     <button onClick={alertaUsuario}>Clique em mim</button>
+
     <button onClick={() => {alert("Executei uma arrow function ")}}>Ex Arrow functio</button>
 
     <div>
